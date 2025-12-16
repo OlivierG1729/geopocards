@@ -23,7 +23,7 @@ def review_cards_screen(user_id: str):
         }
         .flashcard-question {
             font-weight: 600;
-            font-size: 1.6em;
+            font-size: 1.1em;
             margin-bottom: 14px;
             padding-left: 0;
         }
@@ -34,7 +34,7 @@ def review_cards_screen(user_id: str):
             padding-left: 0;
             color: #333;
             white-space: pre-wrap;
-            font-size: 1.6em;
+            font-size: 1.1em;
             font-weight: 600;
         }
         .flashcard-meta {
